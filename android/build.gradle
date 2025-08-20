@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 31
-     namespace "com.example.ussd_advanced"
+     namespace "com.phan_tech.ussd_advanced"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
